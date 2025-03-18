@@ -1,2 +1,2 @@
-Kike, que bien explica git
+Kike, que mal explica git
 hola kike
